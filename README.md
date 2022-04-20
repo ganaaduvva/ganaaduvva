@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/73477921/164216210-d7b4b2d0-dcf5-429f-9ef8-58fb89bdf273.jpg)
+
 <h1 align="center">Hi 👋, I'm Ganesh Duvva</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
