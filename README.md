@@ -1,15 +1,24 @@
-![Banner](https://user-images.githubusercontent.com/73477921/164216210-d7b4b2d0-dcf5-429f-9ef8-58fb89bdf273.jpg)
+![GaneshDuvva](https://user-images.githubusercontent.com/73477921/227116393-7cfe9120-0bba-4dc0-b855-4b00bc8e4e75.png)
+
 
 <h1 align="center">Hi 👋, I'm Ganesh Duvva</h1>
-<h3 align="center">A Passionate Computer Science Student</h3>
+<h3 align="center">A self-driven and passionate Computer Science Engineering student with a Bachelor of Technology.</h3>
+<h4>
+•	Been part of many technical and non-technical communities and interned as a Campus Ambassador for Internshala to create an impact on over 900+ college students and enable them with the proper knowledge.<br>
+•	Made many Open-Source adaptable contributions to the GWOC community and learned much more with attention to detail.<br>
+•	Volunteered in my college cultural fest, and events, and led placement sessions, managing more than 100000+ students.<br>
+•	A lifelong learner with the ability to work well both independently and as a part of a team.
+<hr>
+  - I wish to be a part of an organization where I can contribute to the best of my skills and learn and grow with the organization.
+</h4>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ganaaduvva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganaaduvva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-duvva-007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-duvva-007/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/its.gana.duvva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/its.gana.duvva/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_gana_duvva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_gana_duvva/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ganaduvva_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ganaduvva_786" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganaaduvva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganaaduvva/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ganaaduvva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ganaaduvva/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ganaaduvva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ganaaduvva/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ganaaduvva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ganaaduvva" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
